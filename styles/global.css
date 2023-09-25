@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+
+body{
+    background: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+footer{
+    bottom: 0;
+    height: fit-content;
+}
